@@ -1,0 +1,21 @@
+li a {
+    color: yellow;
+}
+
+a:hover {
+    size: 200%;
+    font-weight: bolder;
+    color: midnightblue;
+}
+
+h1 {
+    color: yellow;
+    font-weight: bolder;
+}
+
+body {
+    background: black url("images/stars.png");
+    background-attachment: fixed;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
